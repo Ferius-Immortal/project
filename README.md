@@ -1,1 +1,2 @@
-# project
+1. starting of development
+2. 
